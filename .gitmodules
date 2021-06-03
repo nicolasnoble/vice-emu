@@ -1,0 +1,3 @@
+[submodule "vice/src/arch/ps1/nugget"]
+	path = vice/src/arch/ps1/nugget
+	url = https://github.com/pcsx-redux/nugget.git
